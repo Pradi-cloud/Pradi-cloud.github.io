@@ -1,6 +1,7 @@
 ## 👋 Hi, I'm Pradipti Basnet
 
-🎓 Cybersecurity Student | Junior  
+
+🎓 Cybersecurity | Graduate 2025
 🔐 Interested in Network Security, Risk Management & Incident Response  
 🛠 Hands-on experience with Wireshark, Nessus, Linux, and networking labs  
 
